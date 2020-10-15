@@ -1,0 +1,16 @@
+
+#rectangle1 {
+    height: 50px;
+    width: 100px;
+    background: black;
+}
+#rectangle2 {
+    height: 50px;
+    width: 100px;
+    background: red;
+}
+#rectangle3 {
+    height: 50px;
+    width: 100px;
+    background: yellow;
+}
